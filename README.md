@@ -41,8 +41,6 @@ Projenin düzgün çalışması için `.ioc` dosyasında buton pininin (`PA0`) *
 * **1x** Push-Button
 * **Breadboard ve Jumper Kablolar**
 
-<img width="346" height="480" alt="image" src="https://github.com/user-attachments/assets/5b2998e0-3e4e-4f1a-84cc-8264f9fee38a" />
-
 ---
 
 ### 🔌 Devre Şeması
